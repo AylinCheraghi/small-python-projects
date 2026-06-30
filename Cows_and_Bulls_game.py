@@ -29,5 +29,3 @@ def numOfBullsCows (num, guess):
         return bull_cow
         
 
-print("Enter of tries: ")
-tries = int(input())
